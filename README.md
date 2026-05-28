@@ -16,19 +16,23 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-🧡?style=for-the-badge)
 ![LLMs & RAG](https://img.shields.io/badge/Generative_AI-Gemini_API-blue?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV_||_Vision_LLMs-purple?style=for-the-badge)
 
 ---
 
 ## 💡 Featured Projects
 
+### 👁️ [Vision RAG](https://github.com/meenakshi2776)
+* **Tech Stack:** Python, Vision LLMs, Vector Databases, Retrieval-Augmented Generation (RAG)
+* **Description:** An advanced multi-modal Retrieval-Augmented Generation system capable of processing, indexing, and querying visual and textual data simultaneously to extract highly contextual insights from images and documents.
+
+### 📄 [AI Resume Analyzer](https://github.com/meenakshi2776)
+* **Tech Stack:** Python, Natural Language Processing (NLP), Web Frameworks
+* **Description:** An intelligent web application designed to automatically parse, evaluate, and summarize user resumes. It leverages NLP techniques to extract key skills and match talent profiles efficiently against target industry benchmarks.
+
 ### 🛡️ [Project Sentry](https://github.com/meenakshi2776) 
 * **Tech Stack:** Python, FastAPI, Gemini API
 * **Description:** A deterministic Security Orchestration, Automation, and Response (SOAR) system designed to automate incident response workflows and threat intelligence using advanced LLM orchestration.
-
-### 📄 [AI Resume Analyzer](https://github.com/meenakshi2776)
-* **Tech Stack:** Python, NLP, Web Frameworks
-* **Description:** An intelligent web application that parses, analyzes, and summarizes resumes using Natural Language Processing to match talent pipelines efficiently.
 
 ### 🚨 [Women Safety Application](https://github.com/meenakshi2776)
 * **Tech Stack:** Mobile/Web, Location APIs, Security Frameworks
