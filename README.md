@@ -22,7 +22,7 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 
 ## 💡 Featured Projects
 
-### 🛡️ [Project Aegis](https://github.com/meenakshi2776) 
+### 🛡️ [Project Sentry](https://github.com/meenakshi2776) 
 * **Tech Stack:** Python, FastAPI, Gemini API
 * **Description:** A deterministic Security Orchestration, Automation, and Response (SOAR) system designed to automate incident response workflows and threat intelligence using advanced LLM orchestration.
 
