@@ -25,28 +25,22 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 ## 💡 Featured Projects
 
 ### 🌸 [Iris Flower Classifier](https://github.com/meenakshi2776/Iris-Classifier)
-* **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
-* **Description:** A predictive machine learning model utilizing the K-Nearest Neighbors (KNN) algorithm to classify iris species with a 98% evaluation accuracy after data restructuring and feature scaling.
+* Predictive ML model using **KNN** to classify iris species with **98% accuracy**[cite: 1].
 
 ### 📄 [AI Resume Analyzer](https://github.com/meenakshi2776/AI_Resume_Analyzer)
-* **Tech Stack:** Python, NLP, Lovable.dev
-* **Description:** An intelligent web application that automates resume parsing, skill set filtering, and structural summary generation using Natural Language Processing models.
+* Intelligent web app automating resume parsing and skill analysis using NLP.
 
-### 🛡️ [Project Sentry](https://github.com/meenakshi2776) 
-* **Tech Stack:** Python, FastAPI, Gemini API
-* **Description:** A deterministic Security Orchestration, Automation, and Response (SOAR) system designed to automate critical threat intelligence workflows with a Telegram human-in-the-loop verification mechanism.
+### 🛡️ [Project Aegis (SOAR System)](https://github.com/meenakshi2776) 
+* Automated threat intelligence system featuring Telegram human-in-the-loop verification.
 
 ### 👁️ [Vision RAG](https://github.com/meenakshi2776)
-* **Tech Stack:** Python, Vision LLMs, Vector Databases, Retrieval-Augmented Generation
-* **Description:** An advanced multi-modal RAG framework allowing parallel indexing and contextual searching across mixed data pipelines containing text documents and image files.
+* Multi-modal RAG framework allowing seamless, combined text and image querying.
 
 ### 🚨 [Women Safety Application](https://github.com/meenakshi2776)
-* **Tech Stack:** Mobile/Web, Location APIs, Security Frameworks
-* **Description:** A dedicated security solution featuring live location-sharing networks, automated panic buttons, and instant community warning alerts.
+* Real-time location sharing and emergency warning platform for community safety.
 
 ### 🏫 [SVIT Campus Connect](https://github.com/meenakshi2776)
-* **Tech Stack:** Full-Stack Development, Database Management
-* **Description:** A collaborative hub engineered for student interaction, central resource sharing, and structured internal communication across the SVIT campus.
+* Collaborative digital hub engineered for resource sharing and SVIT campus networking.
 
 ---
 
@@ -60,8 +54,15 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 ---
 
 ## 📬 Let's Connect!
+
 * **Education:** B.Tech in Computer Science Engineering, SVIT (GPA: 8.1/10.0)
 * **Location:** Hyderabad, India 📍
-* **Current Focus:** Deepening my skills in LangGraph agents, productionizing FastAPI backends, and full-stack architecture.
+* **Current Focus:** Advanced LangGraph orchestration and high-density vector database scaling.
 
+### 📱 Get in touch:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenakshi-singanamala-610107300/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenakshisinganamala77@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916302166221)
+
+---
 ⚡ *“The best way to predict the future is to invent it.”*
