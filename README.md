@@ -1,61 +1,45 @@
-# Hi there, I'm Singanamala Meenakshi! 👋
+<h1>SINGANAMALA MEENAKSHI</h1>
+<p>Hyderabad | meenakshisinganamala77@gmail.com | +91 63021 66221</p>
+<p>linkedin.com/in/meenakshi-singanamala-610107300/ | github.com/meenakshi2776</p>
 
-### 🚀 Computer Science Engineering Student & Applied AI/GenAI Enthusiast
-I am a passionate B.Tech CSE student (Class of 2027) focused on building intelligent applications, robust backend architectures, and data-driven solutions. I love bridging the gap between deterministic software development and cutting-edge Generative AI.
+<h2>Objective</h2>
+<p>Ambitious Computer Science student at SVIT with a strong foundation in software development, machine learning models, and AI integration. Passionate about building intelligent applications and optimizing analytical workflows.</p>
 
----
+<h2>Education</h2>
+<p><strong>Swami Vivekananda Institute of Technology</strong>, B.Tech in Computer Science<br>
+Sept 2023 – May 2027<br>
+• GPA: 8.1/10.0<br>
+• Coursework: Data Structures, Computer Networking, DevOps, Database Management System</p>
 
-## 🛠️ Tech Stack & Tooling
+<h2>Projects</h2>
+<p><strong>Iris Flower Classifier</strong> | github.com/meenakshi2776/Iris-Classifier<br>
+• Developed a predictive classification model using scikit-learn's K-Nearest Neighbors algorithm achieving a 98% evaluation accuracy.<br>
+• Cleaned and structured multi-dimensional feature sets using Pandas and NumPy dataframes to ensure optimal training splits.</p>
 
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-1179c4?style=for-the-badge&logo=mysql&logoColor=white)
+<p><strong>AI Resume Analyzer</strong> | github.com/meenakshi2776/AI_Resume_Analyzer<br>
+• Built a web app that analyzes and summarizes resumes using AI-based NLP models.<br>
+• Tools Used: Lovable.dev, Python, NLP.</p>
 
-### 🤖 AI / ML & Orchestration
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-🧡?style=for-the-badge)
-![LLMs & RAG](https://img.shields.io/badge/Generative_AI-Gemini_API-blue?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV_||_Vision_LLMs-purple?style=for-the-badge)
+<p><strong>Project Sentry</strong><br>
+• Designed a deterministic SOAR (Security Orchestration, Automation, and Response) system to automate incident response workflows and threat intelligence using advanced LLM orchestration.<br>
+• Built a robust backend using Python and integrated a Telegram-based human-in-the-loop verification mechanism for heightened security control.</p>
 
----
+<p><strong>Vision RAG</strong><br>
+• Engineered an advanced multi-modal Retrieval-Augmented Generation (RAG) system utilizing Vision LLMs and vector databases.<br>
+• Enabled simultaneous indexing and contextual querying across complex, blended data streams containing both visual and textual information.</p>
 
-## 💡 Featured Projects
+<p><strong>Women Safety Application</strong><br>
+• Developed a dedicated mobile/web safety application designed to provide secure, real-time location alerts and emergency assistance features.</p>
 
-### 👁️ [Vision RAG](https://github.com/meenakshi2776)
-* **Tech Stack:** Python, Vision LLMs, Vector Databases, Retrieval-Augmented Generation (RAG)
-* **Description:** An advanced multi-modal Retrieval-Augmented Generation system capable of processing, indexing, and querying visual and textual data simultaneously to extract highly contextual insights from images and documents.
+<p><strong>SVIT Campus Connect</strong><br>
+• Built a collaborative campus platform streamlining internal resource sharing, student networking, and academic updates.</p>
 
-### 📄 [AI Resume Analyzer](https://github.com/meenakshi2776)
-* **Tech Stack:** Python, Natural Language Processing (NLP), Web Frameworks
-* **Description:** An intelligent web application designed to automatically parse, evaluate, and summarize user resumes. It leverages NLP techniques to extract key skills and match talent profiles efficiently against target industry benchmarks.
+<h2>Technologies</h2>
+<p><strong>Languages:</strong> C++, C, Java, SQL, JavaScript, Python<br>
+<strong>Tools & Technologies:</strong> HTML5, CSS3, MySQL, Git, GitHub, NumPy, Pandas, LangGraph, FastAPI</p>
 
-### 🛡️ [Project Sentry](https://github.com/meenakshi2776) 
-* **Tech Stack:** Python, FastAPI, Gemini API
-* **Description:** A deterministic Security Orchestration, Automation, and Response (SOAR) system designed to automate incident response workflows and threat intelligence using advanced LLM orchestration.
-
-### 🚨 [Women Safety Application](https://github.com/meenakshi2776)
-* **Tech Stack:** Mobile/Web, Location APIs, Security Frameworks
-* **Description:** A dedicated safety solution featuring real-time location assistance, emergency alerts, and community safety networking features.
-
-### 🏫 [SVIT Campus Connect](https://github.com/meenakshi2776)
-* **Tech Stack:** Full-Stack Development, Database Management
-* **Description:** A collaborative platform built to streamline student communication, campus updates, and peer-to-peer resource sharing within the institute.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=meenakshi2776&show_icons=true&theme=tokyonight&count_private=true" alt="Meenakshi's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi2776&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-## 📬 Let's Connect!
-* **Education:** B.Tech in Computer Science Engineering, SVIT (GPA: 8.1/10.0)
-* **Location:** Hyderabad, India 📍
-* **Current Focus:** Deepening my skills in LangGraph agents, productionizing FastAPI backends, and full-stack architecture.
-
-⚡ *“The best way to predict the future is to invent it.”*
+<h2>Certifications</h2>
+<p><strong>Professional Certification – Teks Academy</strong> (Feb 2026 – Present)<br>
+• <strong>Applied AI & Data Science:</strong> Mastering Python (NumPy, Pandas), SQL, and Classical Machine Learning workflows (Regression & Classification).<br>
+• <strong>GenAI & Agents:</strong> Building LLM applications with advanced prompting, Function Calling, and LangGraph orchestration.<br>
+• <strong>Systems:</strong> Implementing RAG (Retrieval-Augmented Generation) using vector stores and deploying APIs via FastAPI.</p>
