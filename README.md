@@ -25,7 +25,7 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 ## 💡 Featured Projects
 
 ### 🌸 [Iris Flower Classifier](https://github.com/meenakshi2776/Iris-Classifier)
-* Predictive ML model using **KNN** to classify iris species with **98% accuracy**[cite: 1].
+* Predictive ML model using **KNN** to classify iris species with **98% accuracy**.
 
 ### 📄 [AI Resume Analyzer](https://github.com/meenakshi2776/AI_Resume_Analyzer)
 * Intelligent web app automating resume parsing and skill analysis using NLP.
