@@ -39,8 +39,7 @@ I am a passionate B.Tech CSE student (Class of 2027) focused on building intelli
 ### 🚨 [Women Safety Application](https://github.com/meenakshi2776)
 * Real-time location sharing and emergency warning platform for community safety.
 
-### 🏫 [SVIT Campus Connect](https://github.com/meenakshi2776)
-* Collaborative digital hub engineered for resource sharing and SVIT campus networking.
+
 
 ---
 
