@@ -1,6 +1,6 @@
 # Hi there, I'm Singanamala Meenakshi! 👋
 
-### 🚀 Computer Science Engineering Student & Applied AI/GenAI Enthusiast
+### 🚀 Computer Science Engineering Student & Data Science Enthusiast
 I am a passionate B.Tech CSE student (Class of 2027) focused on building intelligent applications, robust backend architectures, and data-driven solutions. I love bridging the gap between deterministic software development and cutting-edge Generative AI.
 
 ---
